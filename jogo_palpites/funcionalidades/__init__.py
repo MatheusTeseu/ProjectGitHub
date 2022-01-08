@@ -3,6 +3,12 @@ from time import sleep
 
 
 def palpite(n):
+    """
+    -> Funcionamento dos palpites
+    :param n: numero que o usuario Digito
+    :return: Não tem
+    - > Função Criar Pelo Matheus
+    """
     computador = randint(1, 10)
     cont = 0
     while True:
@@ -35,12 +41,26 @@ def palpite(n):
 
 
 def titulo(msg):
+    """
+    -> Vai fazer um Titulo
+    :param msg: Mensagem do Titulo do Jogo
+    :return: Não tem
+    -> Função Criada Pelo Matheus
+    """
     print('\033[32m-\033[m' * 40)
     print(f'\033[32m{msg}\033[m'.center(48))
     print('\033[32m-\033[m' * 40)
 
 
 def tenteadivinha(msg):
+    """
+    -> vai mostrar o que o Usuário tem que fazer para encerrar o programa e dizer para o usuario para tenta
+    adivinha qual número o computador está pensando
+    :param msg: vai escrever uma mensagem na tela, para o Usuário tenta adivinha o Número que o Computador está
+    pensando
+    :return: Não tem
+    -> Função Criada Pelo Matheus
+    """
     print('\033[33mDigiete 999 para Encerrar o Programa\033[m')
     print(f'\033[7::40m{msg}\033[7::40m', end='')
     print('\033[7::40m.\033[m', end='')

@@ -7,7 +7,7 @@ def palpite(n):
     -> Funcionamento dos palpites
     :param n: numero que o usuario Digito
     :return: Não tem
-    - > Função Criar Pelo Matheus
+    - > Função Criar Pelo Matheus.
     """
     computador = randint(1, 10)
     cont = 0
@@ -45,7 +45,7 @@ def titulo(msg):
     -> Vai fazer um Titulo
     :param msg: Mensagem do Titulo do Jogo
     :return: Não tem
-    -> Função Criada Pelo Matheus
+    -> Função Criada Pelo Matheus.
     """
     print('\033[32m-\033[m' * 40)
     print(f'\033[32m{msg}\033[m'.center(48))
@@ -59,7 +59,7 @@ def tenteadivinha(msg):
     :param msg: vai escrever uma mensagem na tela, para o Usuário tenta adivinha o Número que o Computador está
     pensando
     :return: Não tem
-    -> Função Criada Pelo Matheus
+    -> Função Criada Pelo Matheus.
     """
     print('\033[33mDigiete 999 para Encerrar o Programa\033[m')
     print(f'\033[7::40m{msg}\033[7::40m', end='')

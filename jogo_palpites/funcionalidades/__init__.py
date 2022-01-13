@@ -71,9 +71,13 @@ def tenteadivinha(msg):
     sleep(0.7)
 
 
-def titulo_par_impar(msg):
-    print('-' * 20)
-    print(f'{msg}'.center(48))
+def titulo_impar_par(msg):
+    print('-' * 40)
+    print(f'{msg}'.center(40))
+    print('-' * 40)
+
+
+
 
 
 

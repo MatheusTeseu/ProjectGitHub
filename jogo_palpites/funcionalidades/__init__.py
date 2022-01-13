@@ -70,3 +70,10 @@ def tenteadivinha(msg):
     print('\033[7::40m.\033[m')
     sleep(0.7)
 
+
+def titulo_par_impar(msg):
+    print('-' * 20)
+    print(f'{msg}'.center(48))
+
+
+

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="">
+    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Project">
+      <change afterPath="$PROJECT_DIR$/jogo_palpites/ExercicioFixacao_JornadaPython_poo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo_impar_par/par_impar.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jogo_palpites/funcionalidades/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogo_palpites/funcionalidades/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo_palpites/impar_par.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642110290808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Project">
+      <created>1642113525018</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642113525018</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Project">
+      <created>1642113681403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642113681403</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +256,7 @@
     <MESSAGE value="Projeto de Jogo de Palpites" />
     <MESSAGE value="estrutura do Projeto" />
     <MESSAGE value="Projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto" />
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
   </component>
 </project>

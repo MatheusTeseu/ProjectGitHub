@@ -77,6 +77,32 @@ def titulo_impar_par(msg):
     print('-' * 40)
 
 
+def impar_par(numero, escolha):
+    computador = randint(1, 10)
+    while True:
+        try:
+            usuario = int(input(numero))
+            usuario_escolha = str(input(escolha))
+            resultado = (computador + usuario) // 2
+        except KeyboardInterrupt:
+            print('Usuário preferiu Não Dizer Nada')
+        except (ValueError, TypeError):
+            Print('Ops! Teve um Porblema com o tipo de dado Digitado')
+            continue
+        else:
+            if resultado % 2 == 0 and usuario_escolha == 'P':
+                print(f'Computador: {computador}, Usuário: {usuario} o Usuário Escolheu: {usuario_escolha}')
+                print('Usuário Venceu !')
+            elif resultado % 2 == 0 and usuario_escolha == 'I':
+                print(f'Computador: {computador}, Usuário: {usuario} o Usuário Escolheu: {usuario_escolha}')
+                print('Usuário Perdeu !')
+            elif resultado % 3 == 0 and usuario_escolha == 'P':
+                print(f'Computador: {computador}, Usuário: {usuario} o Usuário Escolheu: {usuario_escolha}')
+                print('Usuário Perdeu !')
+            elif resultado % 3 == 0 and usuario_escolha == 'I':
+                print(f'Computador: {computador}, Usuário: {usuario} o Usuário Escolheu: {usuario_escolha}')
+                print('Usuário Venceu !')
+
 
 
 

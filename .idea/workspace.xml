@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Exercicio de Fixação da Jornada Python &#10;POO">
+    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Exercicio Fixação da Jornada Python&#10;Materia de POO">
       <change afterPath="$PROJECT_DIR$/Outros_Projetos/ExercicioFixacao_JornadaPython_POO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jogo_palpites/ExercicioFixacao_JornadaPython_poo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -242,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644268438982</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercicio Fixação da Jornada Python&#10;Materia de POO">
+      <created>1644269252485</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1644269252485</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +271,7 @@
     <MESSAGE value="Projeto" />
     <MESSAGE value="Project" />
     <MESSAGE value="Exercicio de Fixação da Jornada Python &#10;POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio de Fixação da Jornada Python &#10;POO" />
+    <MESSAGE value="Exercicio Fixação da Jornada Python&#10;Materia de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio Fixação da Jornada Python&#10;Materia de POO" />
   </component>
 </project>

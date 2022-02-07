@@ -27,7 +27,6 @@ class Empregado:
 
     def receber_aumento(self, anos_empresa, nivel_de_contribuicao, salario):
         raise NotImplementedError
-        # Deve ser Abstrato (os usuario não precisa saber das informações desse atribuito dessa classe)
 
 
 class Desenvolvedor(Empregado):

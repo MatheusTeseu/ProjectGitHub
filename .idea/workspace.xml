@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Project">
-      <change afterPath="$PROJECT_DIR$/jogo_palpites/ExercicioFixacao_JornadaPython_poo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo_palpites/funcionalidades/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogo_palpites/funcionalidades/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jogo_palpites/impar_par.py" beforeDir="false" />
+    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Exercicio de Fixação da Jornada Python &#10;POO">
+      <change afterPath="$PROJECT_DIR$/Outros_Projetos/ExercicioFixacao_JornadaPython_POO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogo_palpites/ExercicioFixacao_JornadaPython_poo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642113681403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercicio de Fixação da Jornada Python &#10;POO">
+      <created>1644268438982</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644268438982</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +262,7 @@
     <MESSAGE value="estrutura do Projeto" />
     <MESSAGE value="Projeto" />
     <MESSAGE value="Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+    <MESSAGE value="Exercicio de Fixação da Jornada Python &#10;POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio de Fixação da Jornada Python &#10;POO" />
   </component>
 </project>

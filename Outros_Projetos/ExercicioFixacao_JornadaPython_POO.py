@@ -78,7 +78,6 @@ class GerenteProjeto(Empregado):
                                GerenteProjeto.porcentagem_aumento / 100
         print(f'O Aumento do Salário do Gerente: {self.nome_completo} '
               f'terá um Aumento de R${self.aumento_salario:.2f}')
-        # deve usar o atributo de classe porcentagem_aumento para calcular o aumento do dev
 
     def adicionar_desenvolvedor(self, time_supervisao):
         print(f'O time do Gerente está com os Seguintes Desenvolvedores: {self.time_supervisao}')

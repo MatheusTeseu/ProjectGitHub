@@ -55,12 +55,13 @@ class Desenvolvedor(Empregado):
         """
         self.litros_cafe = litros_cafe
         if litros_cafe >= 1201:
-            print(f'A Quantidade de Café que você tomo foi de {litros_cafe}ml\nPuts!  O Dev está com Burnout !')
+            print(f'A Quantidade de Café que {self.nome_completo} tomo foi de {litros_cafe}ml\n'
+                  f'Puts!  O Dev está com Burnout !')
         elif 500 < litros_cafe <= 1200:
-            print(f'A Quantidade de Café que você tomo foi de {litros_cafe}ml')
+            print(f'A Quantidade de Café que {self.nome_completo} tomo foi de {litros_cafe}ml')
             print('Aquele Café para ficar Acordado, mas Cuidado para não ficar com Burnout !')
         elif litros_cafe < 500:
-            print(f'A Quantidade de Café que você tomo foi de {litros_cafe}ml')
+            print(f'A Quantidade de Café que {self.nome_completo} tomo foi de {litros_cafe}ml')
             print('Você Toma Café mesmo ? vc Gosta de café mesmo ? Cuidado para não dormi em, Kkk')
         print('--' * 52)
 
@@ -82,7 +83,7 @@ class GerenteProjeto(Empregado):
     def adicionar_desenvolvedor(self, time_supervisao):
         print(f'O time do Gerente está com os Seguintes Desenvolvedores: {self.time_supervisao}')
         self.time_supervisao.append(time_supervisao)
-        print(f'{time_supervisao} Foi Adicionado no time')
+        print(f'{time_supervisao} Foi Adicionado no time do Gerente !')
         print(f'Agora o Time do Gerente tem os seguintes Desenvolvedores: {self.time_supervisao}')
 
     def remover_desenvolvedor(self, time_supervisao):
@@ -95,7 +96,7 @@ class GerenteProjeto(Empregado):
         print(f'Os Projetos que o Gerente está envolvido é: {self.projeto_envolvido}')
         self.projeto_envolvido.append(projeto_envolvidos)
         print(f'{projeto_envolvidos} foi Adicionado nos Projetos que o Gerente está envolvido !')
-        print(f'Agora os Projetos que o Gerente está envolvido são: {self.projeto_envolvido}')
+        print(f'Agora os Projetos que o Gerente está envolvido são: \n{self.projeto_envolvido}')
 
     def sair_projeto(self, projetos_envolvidos):
         self.projeto_envolvido.remove(projetos_envolvidos)

@@ -83,7 +83,7 @@ class GerenteProjeto(Empregado):
         print(f'O time do Gerente está com os Seguintes Desenvolvedores: {self.time_supervisao}')
         self.time_supervisao.append(time_supervisao)
         print(f'{time_supervisao} Foi Adicionado no time')
-        print(f'Agora o Time do Gerente tem os seguitens Desenvolvedores: {self.time_supervisao}')
+        print(f'Agora o Time do Gerente tem os seguintes Desenvolvedores: {self.time_supervisao}')
 
     def remover_desenvolvedor(self, time_supervisao):
         self.time_supervisao.remove(time_supervisao)
@@ -100,7 +100,7 @@ class GerenteProjeto(Empregado):
     def sair_projeto(self, projetos_envolvidos):
         self.projeto_envolvido.remove(projetos_envolvidos)
         print(f'O Projeto {projetos_envolvidos} do Gerente foi Removido !')
-        print(f'Agora os Projetos que o Gerente está envoldio são: {self.projeto_envolvido}')
+        print(f'Agora os Projetos que o Gerente está envolvido são: {self.projeto_envolvido}')
 # ----------------------------------------------------------------------------------------------------------------
 
 

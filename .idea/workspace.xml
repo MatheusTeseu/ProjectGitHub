@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Exercicio Fixação da Jornada Python&#10;Materia de POO">
-      <change beforePath="$PROJECT_DIR$/Outros_Projetos/ExercicioFixacao_JornadaPython_POO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Outros_Projetos/ExercicioFixacao_JornadaPython_POO.py" afterDir="false" />
+    <list default="true" id="6ac3be5f-0afb-4787-a240-c583c75e2591" name="Changes" comment="Exercício Fixação da Jornada Python&#10;Materia de POO">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.impar_par (2)">
+  <component name="RunManager" selected="Python.ExercicioFixacao_JornadaPython_POO">
+    <configuration name="ExercicioFixacao_JornadaPython_POO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Outros_Projetos" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Outros_Projetos/ExercicioFixacao_JornadaPython_POO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="impar_par (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,34 +159,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="par_impar (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\ProjectGitHub\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jogos" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogos/par_impar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ExercicioFixacao_JornadaPython_POO" />
         <item itemvalue="Python.impar_par (2)" />
         <item itemvalue="Python.impar_par (1)" />
         <item itemvalue="Python.palpites" />
         <item itemvalue="Python.impar_par" />
-        <item itemvalue="Python.par_impar (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644269660639</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exercício Fixação da Jornada Python&#10;Materia de POO">
+      <created>1644269839412</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1644269839412</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,6 +284,7 @@
     <MESSAGE value="Project" />
     <MESSAGE value="Exercicio de Fixação da Jornada Python &#10;POO" />
     <MESSAGE value="Exercicio Fixação da Jornada Python&#10;Materia de POO" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio Fixação da Jornada Python&#10;Materia de POO" />
+    <MESSAGE value="Exercício Fixação da Jornada Python&#10;Materia de POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Fixação da Jornada Python&#10;Materia de POO" />
   </component>
 </project>
